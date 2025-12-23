@@ -1,3 +1,10 @@
+## Author
+**Abtin Fooladkhah**  
+Student of Computer Science, University of Tabriz  
+
+**Acknowledgements:**  
+Prof. Jaber Karimpoor, Dr. Kheyri
+
 # Simplex Method Solver (C++)
 
 This project is a C++ implementation of the **Simplex algorithm** for solving linear programming problems.
